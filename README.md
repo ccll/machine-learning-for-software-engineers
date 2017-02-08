@@ -122,9 +122,9 @@ from public sources and replacing the online course videos over time. I like usi
 
 This short section were prerequisites/interesting info I wanted to learn before getting started on the daily plan.
 
-- [ ] [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
+- [x] [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
 - [ ] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
-- [ ] [Don’t Break The Chain](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret)
+- [x] [Don’t Break The Chain](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret)
 - [ ] [How to learn on your own](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own)
 
 ## The Daily Plan
@@ -137,8 +137,8 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Dream](https://www.youtube.com/watch?v=g-jwWYX7Jlo)
 
 ## Machine learning overview
-- [ ] [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
-- [ ] [A Gentle Guide to Machine Learning](https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/)
+- [x] [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+- [x] [A Gentle Guide to Machine Learning](https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/)
 - [ ] [Introduction to Machine Learning for Developers](http://blog.algorithmia.com/introduction-machine-learning-developers/)
 - [ ] [Machine Learning basics for a newbie](https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics/)
 - [ ] [How do you explain Machine Learning and Data Mining to non Computer Science people?](https://www.quora.com/How-do-you-explain-Machine-Learning-and-Data-Mining-to-non-Computer-Science-people)
